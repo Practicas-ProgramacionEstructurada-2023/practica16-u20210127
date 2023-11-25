@@ -1,0 +1,4 @@
+Nombre del Paciente: Moises Carranza
+Fecha de Cita: 27/11/2023 9:00:00
+Razón de Consulta: Limpieza
+Costo de Consulta: $25
